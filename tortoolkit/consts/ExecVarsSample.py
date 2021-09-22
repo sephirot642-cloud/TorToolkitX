@@ -82,7 +82,7 @@ except:
 
         # Custom Trackers for QBT..
         ADD_CUSTOM_TRACKERS = True
-        TRACKER_SOURCE = "https://gist.githubusercontent.com/yadianluffy/98ac9cc5a5f5ad6d2597dafea62359a0/raw/1e98f9d5120e8610dfc9b9113d977a5fc2c80fb3/trackers.txt"
+        TRACKER_SOURCE = "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt"
 
         # Set this to your bot username if you want to add the username of your bot at the end of the commands like
         # /leech@TorToolkitBot so the value will be @TorToolkitBot
